@@ -1,0 +1,4 @@
+package br.com.fullstack.sugestao.services;
+
+public class ComentarioService {
+}
